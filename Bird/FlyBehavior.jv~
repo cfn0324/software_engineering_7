@@ -1,0 +1,11 @@
+//Source file: D:\\ctgu_201\\软测\\软件工程实验七\\Bird\\FlyBehavior.java
+
+
+public interface FlyBehavior 
+{
+   
+   /**
+   @roseuid 658FE0560368
+    */
+   public void fly();
+}

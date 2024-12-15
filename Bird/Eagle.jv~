@@ -1,0 +1,22 @@
+//Source file: D:\\ctgu_201\\软测\\软件工程实验七\\Bird\\Eagle.java
+
+
+public class Eagle extends Bird 
+{
+   
+   /**
+   @roseuid 658FE45D0315
+    */
+   public Eagle() 
+   {
+    
+   }
+   
+   /**
+   @roseuid 658FE4650342
+    */
+   public void display() 
+   {
+    
+   }
+}

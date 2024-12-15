@@ -1,0 +1,15 @@
+//Source file: D:\\ctgu_201\\软测\\软件工程实验七\\Bird\\Client.java
+
+
+public class Client 
+{
+   private Bird theAbstraction;
+   
+   /**
+   @roseuid 658FE1BE01A4
+    */
+   public Client() 
+   {
+    
+   }
+}

@@ -1,0 +1,22 @@
+//Source file: D:\\ctgu_201\\软测\\软件工程实验七\\Bird\\Penguin.java
+
+
+public class Penguin extends Bird 
+{
+   
+   /**
+   @roseuid 658FE42E0142
+    */
+   public Penguin() 
+   {
+    
+   }
+   
+   /**
+   @roseuid 658FE44403B6
+    */
+   public void display() 
+   {
+    
+   }
+}

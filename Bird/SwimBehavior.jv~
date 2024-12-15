@@ -1,0 +1,11 @@
+//Source file: D:\\ctgu_201\\软测\\软件工程实验七\\Bird\\SwimBehavior.java
+
+
+public interface SwimBehavior 
+{
+   
+   /**
+   @roseuid 658FE312020D
+    */
+   public void swim();
+}

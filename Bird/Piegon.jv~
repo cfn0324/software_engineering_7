@@ -1,0 +1,22 @@
+//Source file: D:\\ctgu_201\\软测\\软件工程实验七\\Bird\\Piegon.java
+
+
+public class Piegon extends Bird 
+{
+   
+   /**
+   @roseuid 658FE11B0295
+    */
+   public Piegon() 
+   {
+    
+   }
+   
+   /**
+   @roseuid 658FE12800DC
+    */
+   public void display() 
+   {
+    
+   }
+}

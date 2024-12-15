@@ -1,0 +1,41 @@
+//Source file: D:\\ctgu_201\\软测\\软件工程实验七\\Bird\\Bird.java
+
+
+public abstract class Bird 
+{
+   private FlyBehavior ImplementorRef;
+   protected FlyBehavior theFlyBehavior;
+   protected SwimBehavior theSwimBehavior;
+   
+   /**
+   @roseuid 658FE0BF0164
+    */
+   public Bird() 
+   {
+    
+   }
+   
+   /**
+   @roseuid 658FE0560321
+    */
+   public void fly() 
+   {
+     ImplementorRef.defaultMethod();    
+   }
+   
+   /**
+   @roseuid 658FE0970074
+    */
+   public void display() 
+   {
+    
+   }
+   
+   /**
+   @roseuid 658FE60B029C
+    */
+   public void swim() 
+   {
+    
+   }
+}
